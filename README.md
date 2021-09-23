@@ -1,7 +1,6 @@
 ### Hi there 👋
 
- ![<your company name> - your punch line](./github%20ad%20banner.png "your punch line goes here")
-
+[ ![<your company name> - your punch line](./github%20ad%20banner.png "your punch line goes here")  ](https://yourcompany.com)
 
 Become a sponsor:
 https://www.patreon.com/Malikasinger
