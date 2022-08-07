@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-[ ![<your company name> - your punch line](./github%20ad%20banner.png "your punch line goes here")  ](https://yourcompany.com)
+[ ![<your company name> - your punch line](./img/ad.JPG "your punch line goes here")  ]([https://yourcompany.com](https://www.facebook.com/photo?fbid=580931176805719&set=a.319267146305458))
 
 Become a sponsor:
 https://www.patreon.com/Malikasinger
