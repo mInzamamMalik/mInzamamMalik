@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Tech+Trainer+;AI+Chatbots;Dialogflow+and+ChatGPT+Expert+;Entrepreneur;Keynote+Speaker" alt="Typing SVG" />
+<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Tech+Trainer+;AI+Chatbots;Dialogflow+and+ChatGPT+Expert+;Entrepreneur;Keynote+Speaker" alt="Typing SVG" /></div>
 
 Inzamam Malik is Artificial Intelligence Chatbot and Voice App Developer specialized in making Intelligent conversational Chatbot of highly scalable containerized backend with cutting edge technologies,
 he started his career with Web development almost 10 years ago
