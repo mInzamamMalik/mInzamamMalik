@@ -1,6 +1,40 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Tech+Trainer+;AI+Chatbots;Dialogflow+and+ChatGPT+Expert+;Entrepreneur;Keynote+Speaker" alt="Typing SVG" />
 
-<!-- <h3 align="center">A passionate full stack developer from Pakistan</h3> -->
+Inzamam Malik is Artificial Intelligence Chatbot and Voice App Developer
+he started his career with Web development
+these he teacher web and mobile technologies such as we apps and chatbot/voice apps A passionate full stack developer from Pakistan<
+
+I'm an Artificial Intelligence Chatbot and VUI developer (Voice User Interface developer) have capability of making Intelligent Chatbot with highly scaleable containerized backend with cutting edge technologies
+
+I specialized in making conversational Interfaces and business chatbots using the highly adopted platform Dialogflow(api.ai)
+
+I'm able to provide you a complete solution for:
+
+Google Home / Google assistant
+Alexa / amazon echo
+Facebook Messenger platform
+Customized Chatbot to integrate in Android, iOS and Web Apps
+
+``
+He is also a passionate teacher in his blood as a legacy of his mother. He loves to explore, work, and teach cutting-edge technologies. He comprehended 20 thousand plus students online and onsite.
+
+Have experience in developing Artificial Intelligence Chatbots with the highly scalable containerized back-end using cutting edge voice applications technologies, such as Google Assistant apps, Amazon Alexa apps, and other social messaging platform chatbots such as Facebook Messenger chatbots, Slack chatbots, Skype chatbots, Whatsapp chatbots, SMS chatbots, and Call chatbots. in 2019 one of the sister organizations of the United Nations, the International telecommunication union invited him to one of their summits to speak on Artificial intelligence chatbots, he also spoke at Qatar innovation week held in Doha
+
+following are some notable startups Inzamam Malik had worked with:
+• https://www.ivow.ai/ourteam-467515.html
+• https://heluss.com/
+• https://wifiplug.co.uk/about/
+• https://apps.apple.com/us/app/bilal-%D8%A8%D9%84%D8%A7%D9%84/id1546868895
+• https://voiceworx.ai/Solutions/SmartHealth
+• https://voiceworx.ai/Solutions/SmartOffice
+
+Inzamam Malik is the Founder of sysBorg, that company provides complete solutions for:
+
+- Intelligent phone call / IVR Chatbot.
+- Google assistant apps - Google smart home apps.
+- Amazon Alexa skill - Alexa smart home apps.
+- WhatsApp, Facebook, Slack, Skype, Twitter, Telegram Chatbot.
+- All sorts of customized Chatbot to integrate into Android, iOS, and Web Apps.
 
 <h3 align="left">Languages and Tools:</h3>
 
