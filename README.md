@@ -7,8 +7,8 @@
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,linux,c,css,js" />
    <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs,nextjs"/>
-   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,wasm,"/>
-   <img src="https://skillicons.dev/icons?i=postman,graphql,figma,xd"/>
+   <img src="https://skillicons.dev/icons?i=firebase,postman,heroku,graphql,figma,xd"/>
+   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,wasm,swift"/>
 </p>
 
 <hr>
