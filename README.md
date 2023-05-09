@@ -1,16 +1,35 @@
-![counter](https://en1g1m3zkq5j0aw.m.pipedream.net)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Tech+Trainer+;AI+Chatbots;Dialogflow+and+ChatGPT+Expert+;Entrepreneur;Keynote+Speaker" alt="Typing SVG" />
 
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
-
+<!-- <h3 align="center">A passionate full stack developer from Pakistan</h3> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p align='center'>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,c,css,js" />
+   <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs,nextjs"/>
+   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,wasm,"/>
+   <img src="https://skillicons.dev/icons?i=postman,graphql,figma,xd"/>
+</p>
 
+<hr>
 
-  
-Become a sponsor:
-https://www.patreon.com/Malikasinger
+## Contact me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/minzamam" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+
+<a href="https://www.youtube.com/@InzamamMalik" target="blank"><img align="center" src="./img/youtube.svg" alt="YouTube" height="50" width="50" /></a>
+
+<a href="https://www.upwork.com/freelancers/~014998370bf4b28c01/" target="blank"><img align="center" src="./img/upwork.svg" alt="upwork" height="50" width="50" /></a>
+
+<a href="https://stackoverflow.com/users/4378475/inzamam-malik" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" height="50" width="50" alt="linkedin" /></a>
+
+![counter](https://en1g1m3zkq5j0aw.m.pipedream.net)
+
+</p>
+
+### Become a sponsor at [Patreon](https://www.patreon.com/Malikasinger)
 
 <!--
 **malikasinger1/malikasinger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
