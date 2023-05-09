@@ -33,7 +33,7 @@ From 🇵🇰 with ❤️ ♥️
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,linux,c,css,js" />
